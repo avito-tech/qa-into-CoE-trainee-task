@@ -1,7 +1,7 @@
 ### Тестовое задание №1
 
 Схема БД состоит из 2 таблиц:
-1) *task_tatus (issue_key, status, start_time)*
+1) *task_status (issue_key, status, start_time)*
 2) *task_info (issue_key, type, name)*
 
 Таблица *task_status* представляет номер задачи в Jira (*issue_key*), статус задачи (*status*), время перехода в статус (*start_time*).
